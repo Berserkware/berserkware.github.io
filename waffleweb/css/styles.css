@@ -1,0 +1,105 @@
+@font-face {
+    font-family: bakso-sapi;
+    src: url('/waffleweb/fonts/BaksoSapi.otf');
+}
+
+body {
+    background-color: black;
+    font-family: bakso-sapi;
+    color: white;
+    text-align: center;
+}
+
+div {
+    margin: auto;
+}
+
+#logoText {
+    color: #905740;
+    font-size: 2em;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+p {
+    color: #683c36;
+    font-size: 1.5em;
+    margin-top: 10px;
+    width: 80%;
+    margin: auto;
+}
+
+#navButtons {
+    text-decoration: none;
+    color: #683c36;
+    font-size: 1.8em;
+}
+
+#wafflewebLogo {
+    margin-top: 10px;
+    height: 124px;
+    width: 124px;
+}
+
+#community {
+    color: #683c36;
+    font-size: 2.8em;
+}
+
+#changes {
+    color: #683c36;
+    font-size: 2.8em;
+}
+
+#communityButtons {
+    text-decoration: none;
+    color: #683c36;
+    font-size: 1.6em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#about {
+    margin-top: 0px;
+    width: 60%;
+    font-size: 1.7em
+}
+
+.change {
+    width: 50%;
+    text-align: left;
+    border: #fab745;
+    border-style: solid;
+    border-width: 5px;
+    background-color: #f89f30;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+
+#changeVersion {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 0;
+    color: #905740;
+}
+
+#changeRelease {
+    margin-top: 0;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    color: #683c36;
+}
+
+
+#changeContent {
+    margin-top: 0;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    color: #905740;
+}
+
+#copyright {
+    margin-top: 10px;
+    font-size: 1.4em;
+}
